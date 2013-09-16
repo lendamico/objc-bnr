@@ -33,3 +33,10 @@
 - `while` loops: give the look an expression dan block of code con tainted by curly braces. In the `if` construct, if the expression is true, the block of code is run once. In the `while` construct, the block of code is run again and again until the expression becomes false.
 - `for` loops: usually used to iterate through a collection of items, such as a list of names.
 - when a `break` is called, execution skips directly to the end of the code block.
+
+# 8. Addresses and Pointers
+- `float *ptr;` declares a pointer to an address
+- pointers are sometimes called references; thus, using the pointer to read data at the address is sometimes called *dereferencing* the pointer.
+- `*addressOfI`: give me the value of the data stored at the address `addressOfI`
+
+ 
