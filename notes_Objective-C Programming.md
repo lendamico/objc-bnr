@@ -39,4 +39,7 @@
 - pointers are sometimes called references; thus, using the pointer to read data at the address is sometimes called *dereferencing* the pointer.
 - `*addressOfI`: give me the value of the data stored at the address `addressOfI`
 
+# 9. Pass By Reference
+- *pass-by reference*: supplying an address to stash part of a called function
+
  
