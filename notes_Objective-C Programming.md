@@ -42,4 +42,9 @@
 # 9. Pass By Reference
 - *pass-by reference*: supplying an address to stash part of a called function
 
+# 12. Objects
+- `NSLog()` is an Objective-C function not unlike `printf()`; it takes a format string, replaces `%` tokes with actual variables, and writes the result o the console.
+- A message send is always surrounded by square brackets and it always has at least two parts: a pointer to the object that is receiving the message and the name of the method to be triggered.
+ 
+
  
